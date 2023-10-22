@@ -23,7 +23,7 @@ namespace Pratices
                 return;
             }
             CollectionsFunction.PrintCollections(arr);
-            Console.WriteLine("Collection not sorted");
+            Console.WriteLine("Collection not sorted"); 
             
         }
         public static bool IsSorted(int[] arr) 

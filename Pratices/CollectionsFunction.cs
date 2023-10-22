@@ -16,7 +16,7 @@ namespace Pratices
             }
             Console.WriteLine();
         }
-        public static void PrintCollections(List<int> arr)
+        public static void PrintCollections(List<int> arr) 
         {
             foreach (int i in arr)
             {

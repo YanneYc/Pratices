@@ -8,7 +8,7 @@ namespace Pratices.Algorithm
 {
     internal class QuickSort
     {
-        private static int Partition(int[]arr ,int left ,int right,bool accending) 
+        private static int Partition(int[]arr ,int left ,int right,bool accending)  
         {
             
             int i = left - 1;

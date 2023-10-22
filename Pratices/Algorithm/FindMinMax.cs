@@ -15,7 +15,7 @@ namespace Pratices.Algorithm
             {
                 Console.Write("{0},",x);
             }
-            Console.WriteLine("\nMin:{0} Max:{1}",min,max);
+            Console.WriteLine("\nMin:{0} Max:{1}",min,max); 
 
         }
         public static void PrintResult(List<int> list, int min, int max)

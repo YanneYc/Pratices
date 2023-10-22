@@ -10,7 +10,7 @@ namespace Pratices.Algorithm
     {
         public static void Swap(int[] arr , int left , int right) 
         {
-            int temp = arr[left];
+            int temp = arr[left]; 
             arr[left] = arr[right];
             arr[right] = temp;
         }
